@@ -1,0 +1,6 @@
+streamlit==1.25.0          # For building the web application
+scikit-learn==1.3.0        # For training the Logistic Regression model
+pandas==1.5.3              # For data manipulation
+numpy==1.24.4              # For numerical operations
+joblib==1.3.0              # For saving and loading the model
+# mlflow==2.9.1              # For model tracking and logging

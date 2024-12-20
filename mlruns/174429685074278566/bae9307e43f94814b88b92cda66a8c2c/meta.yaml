@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ameym/Downloads/SPIT%20College/FDS/Exp%2009/mlruns/174429685074278566/bae9307e43f94814b88b92cda66a8c2c/artifacts
+end_time: 1734678635404
+entry_point_name: ''
+experiment_id: '174429685074278566'
+lifecycle_stage: active
+run_id: bae9307e43f94814b88b92cda66a8c2c
+run_name: receptive-mink-550
+run_uuid: bae9307e43f94814b88b92cda66a8c2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734678625160
+status: 3
+tags: []
+user_id: ameym
